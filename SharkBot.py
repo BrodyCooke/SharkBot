@@ -17,7 +17,7 @@ intents.voice_states = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 def read_token():
-    with open("token2.txt", "r") as f:
+    with open("SharkBotToken.txt", "r") as f:
         lines = f.readlines()
         return lines[0].strip()
 
