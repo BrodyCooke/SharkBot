@@ -2,3 +2,4 @@ SharkBotToken.txt
 ChatHistoryBackup.txt
 __pycache__/azure_text_to_speech.cpython-312.pyc
 __pycache__/openai_chat.cpython-312.pyc
+__pycache__/OverwatchAPI.cpython-312.pyc
