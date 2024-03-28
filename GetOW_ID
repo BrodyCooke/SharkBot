@@ -6,7 +6,7 @@ def main():
 
     # Specify the query parameter and its value
     params = {
-        "name": "gwemblwynn"
+        "name": "bunnysage"
     }
 
     try:
